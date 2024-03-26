@@ -1,4 +1,10 @@
-### Hi there 👋
+### My skill set
+
+<p align="">
+  <a href="https://skillicons.dev">
+    <img src=https://skillicons.dev/icons?theme=&i=laravel,php,js,html,css,vue,react,ts,mysql,aws,docker,express />
+  </a>
+</p>
 
 <!--
 **danalamo/danalamo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
