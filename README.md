@@ -1,4 +1,6 @@
-# My skill set
+<a href="https://github-readme-streak-stats.herokuapp.com">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danalamo" />
+</a>
 
 ##### Languages
 <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
