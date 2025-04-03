@@ -1,5 +1,6 @@
-
+<!--
 ![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=danalamo)
+-->
 
 ##### Languages
 <code><img width="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></code>
